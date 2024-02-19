@@ -1,4 +1,4 @@
-# Hi, I'm Indrajeeth 👋! ![visitors](https://visitor-badge.glitch.me/badge?page_id=tamilvip007.tamilvip007&left_color=green&right_color=red)
+# Hi, I'm Indrajeeth 👋! ![]([https://visitor-badge.glitch.me/badge?page_id=tamilvip007.tamilvip007&left_color=green&right_color=red](https://komarev.com/ghpvc/?username=tamilvip007&abbreviated=true&color=green&&label=visitors))
 
 ## Contact Information
 
