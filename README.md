@@ -120,9 +120,3 @@ Pi](https://img.shields.io/badge/-Raspberry%20Pi%20OS-C51A4A?style=flat-square&l
     <img src="https://github.com/TAMILVIP007/TAMILVIP007/blob/main/images/stat.svg" alt="My Walkatime Activity" />
 </div>
 
-## **🎧 Spotify Now Playing**
-
-<div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31u3n76lci6ikbr6td5wtuymimim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
-        alt="Spotify Now Playing" />
-</div>
