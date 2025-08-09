@@ -3,7 +3,7 @@
 ## Contact Information
 
 <div align="center">
-    <a href="https://www.instagram.com/tamilvip007/"><img
+    <a href="https://www.instagram.com/tamilvip07/"><img
             src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" /></a>&nbsp;&nbsp;
     <a href="https://twitter.com/tamilvip007"><img
             src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>&nbsp;&nbsp;
