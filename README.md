@@ -8,7 +8,7 @@
     <a href="https://twitter.com/tamilvip007"><img
             src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>&nbsp;&nbsp;
     <a href="https://t.me/tamilvip07"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" /></a>
-    <a href="mailto:mail@tamilvip007.me"><img src="https://img.icons8.com/color/48/000000/email--v2.png" /></a>
+    <a href="mailto:mail@indrajeeth.in"><img src="https://img.icons8.com/color/48/000000/email--v2.png" /></a>
 </div>
 
 
@@ -46,7 +46,7 @@ class Programmer:
 
 my_programmer = Programmer(
     name="Indrajeeth",
-    age=20,
+    age=22,
     education="BTech IT",
     languages=["Python", "Golang", "TypeScript", "JavaScript"],
     instruments={
